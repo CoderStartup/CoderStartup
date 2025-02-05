@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CoderStartup
-- 👀 I’m interested to build some fun startup
+- 👀 I’m interested to build some fun startups
 - 🌱 I’m currently learning how i can build my own startup
 
 <!---
