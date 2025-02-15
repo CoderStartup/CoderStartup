@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @CoderStartup
-- 👀 I’m interested to build some fun startups
-- 🌱 I’m currently learning how i can build my own startup
+# Welcome to CoderStartup's Profile!
 
-<!---
-CoderStartup/CoderStartup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm **CoderStartup**, a passionate developer and tech enthusiast running my own SaaS startup. I love exploring new technologies and creating innovative solutions. Here's a bit about me:
+
+## 🚀 About Me
+- 💻 I’m currently working on various open-source projects and building my own SaaS startup.
+- 🎯 Goals: Contribute more to the tech community, grow my startup, and learn new programming languages.
+- 🌱 I’m currently learning Rust and AI/ML.
+- 💬 Ask me about web development, cloud computing, and open-source.
+
+## 🔧 Technologies & Tools
+- **Languages**: TypeScript, Python, Rust, C++
+- **Frameworks**: React, Node.js, Express, Django
+- **Tools**: Git, Docker, Kubernetes, AWS, Azure
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Specialties**: AI/ML
+
+## 📈 GitHub Stats
+![CoderStartup's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderStartup&show_icons=true&theme=radical)
+
+Thanks for visiting my profile! Have a great day! 😊
