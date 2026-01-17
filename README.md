@@ -15,7 +15,4 @@ Hello! I'm **CoderStartup**, a passionate developer and tech enthusiast running 
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Specialties**: AI/ML
 
-## 📈 GitHub Stats
-![CoderStartup's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderStartup&show_icons=true&theme=radical)
-
 Thanks for visiting my profile! Have a great day! 😊
